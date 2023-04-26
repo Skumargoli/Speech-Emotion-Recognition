@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+Pillow
+opencv-python-headless
+plotly
+requests
+librosa
+streamlit
+tensorflow-cpu
+
